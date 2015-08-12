@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStrings\CompositeStrings\bin\Debug\CompositeStrings.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStrings\CompositeStrings\bin\Debug\CompositeStrings.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStrings\CompositeStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStrings\CompositeStrings\obj\x86\Debug\CompositeStrings.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStrings\CompositeStrings\obj\x86\Debug\CompositeStrings.pdb

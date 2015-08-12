@@ -1,0 +1,44 @@
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.MainForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.Properties.Resources.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\bin\Debug\ErrorProviderDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\ErrorProviderDemo\ErrorProviderDemo\obj\Debug\ErrorProviderDemo.pdb

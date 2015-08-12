@@ -1,0 +1,54 @@
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.Properties.Resources.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\bin\Debug\SimpleDialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.SimpleDialog.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\SimpleDialogExample\SimpleDialogExample\obj\Debug\SimpleDialogExample.pdb

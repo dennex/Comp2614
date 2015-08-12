@@ -1,0 +1,14 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\bin\Debug\PersonInput.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\bin\Debug\PersonInput.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\PersonInput.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\PersonInput.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples2\PersonInput\PersonInput\obj\Debug\PersonInput.PersonControl.resources
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\bin\Debug\PersonInput.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\bin\Debug\PersonInput.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\obj\Debug\PersonInput.PersonControl.resources
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\obj\Debug\PersonInput.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\obj\Debug\PersonInput.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\PersonInput\PersonInput\obj\Debug\PersonInput.pdb

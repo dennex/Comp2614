@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ListCapacityExample\ListCapacityExample\bin\Debug\ListCapacityExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ListCapacityExample\ListCapacityExample\bin\Debug\ListCapacityExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ListCapacityExample\ListCapacityExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ListCapacityExample\ListCapacityExample\obj\x86\Debug\ListCapacityExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ListCapacityExample\ListCapacityExample\obj\x86\Debug\ListCapacityExample.pdb

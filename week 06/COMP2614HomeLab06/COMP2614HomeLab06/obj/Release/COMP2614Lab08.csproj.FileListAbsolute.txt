@@ -1,0 +1,16 @@
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\bin\Release\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\bin\Release\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Release\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Release\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Release\COMP2614Lab08.csproj.GenerateResource.Cache

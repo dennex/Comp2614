@@ -1,0 +1,7 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\CalculatedProperties\CalculatedProperties\bin\Debug\CalculatedProperties.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\CalculatedProperties\CalculatedProperties\bin\Debug\CalculatedProperties.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\CalculatedProperties\CalculatedProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\CalculatedProperties\CalculatedProperties\obj\x86\Debug\CalculatedProperties.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\CalculatedProperties\CalculatedProperties\obj\x86\Debug\CalculatedProperties.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\CalculatedProperties\CalculatedProperties\obj\x86\Debug\CalculatedProperties.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\CalculatedProperties\CalculatedProperties\obj\x86\Debug\CalculatedProperties.pdb

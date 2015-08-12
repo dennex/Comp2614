@@ -1,0 +1,36 @@
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690_Fall2009\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week07\OnLine\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week07\OnLine\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week07\Online\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\bin\Debug\LINQArrayProcessing.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\LINQArrayProcessing.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQArrayProcessing\LINQArrayProcessing\obj\Debug\GenerateResource.write.1.tlog

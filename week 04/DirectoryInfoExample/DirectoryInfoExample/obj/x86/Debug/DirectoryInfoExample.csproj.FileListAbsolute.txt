@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Online\Examples\DirectoryInfoExample\DirectoryInfoExample\bin\Debug\DirectoryInfoExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Online\Examples\DirectoryInfoExample\DirectoryInfoExample\bin\Debug\DirectoryInfoExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Online\Examples\DirectoryInfoExample\DirectoryInfoExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Online\Examples\DirectoryInfoExample\DirectoryInfoExample\obj\x86\Debug\DirectoryInfoExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Online\Examples\DirectoryInfoExample\DirectoryInfoExample\obj\x86\Debug\DirectoryInfoExample.pdb

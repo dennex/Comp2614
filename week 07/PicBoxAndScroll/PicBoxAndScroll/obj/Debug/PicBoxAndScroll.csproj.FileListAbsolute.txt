@@ -1,0 +1,55 @@
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\bin\Debug\PicBoxAndScroll.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\PicBoxAndScroll.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week07\Online\PicBoxAndScroll\PicBoxAndScroll\obj\Debug\GenerateResource.write.1.tlog

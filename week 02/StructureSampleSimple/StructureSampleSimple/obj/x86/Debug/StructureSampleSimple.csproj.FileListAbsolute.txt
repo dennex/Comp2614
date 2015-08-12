@@ -1,0 +1,7 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\bin\Debug\StructureSampleSimple.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\bin\Debug\StructureSampleSimple.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\obj\x86\Debug\StructureSampleSimple.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\obj\x86\Debug\StructureSampleSimple.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\obj\x86\Debug\StructureSampleSimple.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\StructureSampleSimple\StructureSampleSimple\obj\x86\Debug\StructureSampleSimple.pdb

@@ -1,0 +1,9 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week09\HomeLab\COMP2614HomeLab08\BizLogic\bin\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week09\HomeLab\COMP2614HomeLab08\BizLogic\bin\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week09\HomeLab\COMP2614HomeLab08\BizLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week09\HomeLab\COMP2614HomeLab08\BizLogic\obj\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week09\HomeLab\COMP2614HomeLab08\BizLogic\obj\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\HomeLab\COMP2614HomeLab08\BizLogic\bin\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\HomeLab\COMP2614HomeLab08\BizLogic\bin\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\HomeLab\COMP2614HomeLab08\BizLogic\obj\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\HomeLab\COMP2614HomeLab08\BizLogic\obj\Debug\BizLogic.pdb

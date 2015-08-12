@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\CheckedUncheckedExample\CheckedUncheckedExample\bin\Debug\CheckedUncheckedExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\CheckedUncheckedExample\CheckedUncheckedExample\bin\Debug\CheckedUncheckedExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\CheckedUncheckedExample\CheckedUncheckedExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\CheckedUncheckedExample\CheckedUncheckedExample\obj\x86\Debug\CheckedUncheckedExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\CheckedUncheckedExample\CheckedUncheckedExample\obj\x86\Debug\CheckedUncheckedExample.pdb

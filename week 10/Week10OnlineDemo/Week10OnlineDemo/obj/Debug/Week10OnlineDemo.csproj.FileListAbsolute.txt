@@ -1,0 +1,13 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\bin\Debug\Week10OnlineDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\bin\Debug\Week10OnlineDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Online\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 10\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.exe
+C:\Users\Dr Trance\Documents\comp2614\week 10\Week10OnlineDemo\Week10OnlineDemo\obj\Debug\Week10OnlineDemo.pdb

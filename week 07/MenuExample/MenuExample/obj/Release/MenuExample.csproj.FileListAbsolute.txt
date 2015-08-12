@@ -1,0 +1,8 @@
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\bin\Release\MenuExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\bin\Release\MenuExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\MenuExample.PictureViewerForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\MenuExample.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\MenuExample.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\MenuExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week07\Examples\MenuExample\MenuExample\obj\Release\MenuExample.pdb

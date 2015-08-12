@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericStackExample\GenericStackExample\bin\Debug\GenericStackExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericStackExample\GenericStackExample\bin\Debug\GenericStackExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericStackExample\GenericStackExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericStackExample\GenericStackExample\obj\x86\Debug\GenericStackExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericStackExample\GenericStackExample\obj\x86\Debug\GenericStackExample.pdb

@@ -1,0 +1,10 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\bin\Debug\COMP2614HomeLab06.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\bin\Debug\COMP2614HomeLab06.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\COMP2614HomeLab06.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\COMP2614HomeLab06.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\COMP2614HomeLab06.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614HomeLab06\obj\Debug\COMP2614HomeLab06.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614HomeLab06\obj\Debug\COMP2614HomeLab06.pdb

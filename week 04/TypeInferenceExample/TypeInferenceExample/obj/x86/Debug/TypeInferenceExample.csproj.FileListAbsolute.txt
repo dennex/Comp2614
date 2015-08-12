@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\TypeInferenceExample\TypeInferenceExample\bin\Debug\TypeInferenceExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\TypeInferenceExample\TypeInferenceExample\bin\Debug\TypeInferenceExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\TypeInferenceExample\TypeInferenceExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\TypeInferenceExample\TypeInferenceExample\obj\x86\Debug\TypeInferenceExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\TypeInferenceExample\TypeInferenceExample\obj\x86\Debug\TypeInferenceExample.pdb

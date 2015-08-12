@@ -1,0 +1,7 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\Online\Examples\SimpleInheritance\SimpleInheritance\obj\x86\Debug\SimpleInheritance.pdb

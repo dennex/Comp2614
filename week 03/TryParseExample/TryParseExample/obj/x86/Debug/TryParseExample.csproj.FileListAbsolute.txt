@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TryParseExample\TryParseExample\bin\Debug\TryParseExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TryParseExample\TryParseExample\bin\Debug\TryParseExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TryParseExample\TryParseExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TryParseExample\TryParseExample\obj\x86\Debug\TryParseExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TryParseExample\TryParseExample\obj\x86\Debug\TryParseExample.pdb

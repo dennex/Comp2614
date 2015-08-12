@@ -1,0 +1,9 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\EnumerationExample\EnumerationExample\bin\Debug\EnumerationExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\EnumerationExample\EnumerationExample\bin\Debug\EnumerationExample.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\EnumerationExample\EnumerationExample\obj\x86\Debug\EnumerationExample.pdb

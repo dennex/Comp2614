@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ExceptionHandlingExample\ExceptionHandlingExample\obj\x86\Debug\ExceptionHandlingExample.pdb

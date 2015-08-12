@@ -1,0 +1,74 @@
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\bin\Debug\DialogExample.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\bin\Debug\DialogExample.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\bin\Debug\News.dll
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\bin\Debug\News.xml
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690Fall2008\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Documents and Settings\charlie\My Documents\COMP2690Winter2009\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\bin\Debug\DialogExample.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\bin\Debug\DialogExample.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\bin\Debug\News.dll
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\bin\Debug\News.xml
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.Properties.Resources.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\bin\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\bin\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\bin\Debug\News.dll
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\bin\Debug\News.xml
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week09\Examples\DialogExample\obj\Debug\DialogExample.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\bin\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\bin\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\bin\Debug\News.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\bin\Debug\News.xml
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\bin\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\bin\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\bin\Debug\News.dll
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\bin\Debug\News.xml
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week09\Examples\DialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\bin\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\bin\Debug\DialogExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\bin\Debug\News.dll
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\bin\Debug\News.xml
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\DialogExample.ConnectionForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\DialogExample.GetNewsgroupForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\DialogExample.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\DialogExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week08\Examples\DialogExample\obj\Debug\DialogExample.pdb

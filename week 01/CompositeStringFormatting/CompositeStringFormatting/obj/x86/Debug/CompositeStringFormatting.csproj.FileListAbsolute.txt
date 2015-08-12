@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStringFormatting\CompositeStringFormatting\bin\Debug\CompositeStringFormatting.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStringFormatting\CompositeStringFormatting\bin\Debug\CompositeStringFormatting.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStringFormatting\CompositeStringFormatting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStringFormatting\CompositeStringFormatting\obj\x86\Debug\CompositeStringFormatting.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\CompositeStringFormatting\CompositeStringFormatting\obj\x86\Debug\CompositeStringFormatting.pdb

@@ -1,0 +1,40 @@
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week05\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\ResolveAssemblyReference.cache
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.MainForm.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.Properties.Resources.resources
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week06\Online\TimerTest\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week06\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\bin\Debug\TimerNTooltip.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week05\Online\TimerNTooltip\TimerNTooltip\obj\Debug\TimerNTooltip.pdb

@@ -1,0 +1,9 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\bin\Debug\LINQWithCollections.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\bin\Debug\LINQWithCollections.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\LINQWithCollections.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\LINQWithCollections.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\ResGen.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\ResGen.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\LINQWithCollections.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week11\Examples\LINQWithCollections\LINQWithCollections\obj\Debug\LINQWithCollections.pdb

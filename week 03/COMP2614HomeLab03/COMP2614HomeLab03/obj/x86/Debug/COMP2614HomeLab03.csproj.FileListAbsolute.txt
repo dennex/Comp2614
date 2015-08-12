@@ -1,0 +1,10 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\bin\Debug\COMP2614HomeLab03.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\bin\Debug\COMP2614HomeLab03.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\COMP2614HomeLab03.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\COMP2614HomeLab03.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\COMP2614HomeLab03.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\COMP2614HomeLab03.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\bin\Debug\COMP2614HomeLab03.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\bin\Debug\COMP2614HomeLab03.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week03\HomeLab\COMP2614HomeLab03\COMP2614HomeLab03\obj\x86\Debug\ResolveAssemblyReference.cache

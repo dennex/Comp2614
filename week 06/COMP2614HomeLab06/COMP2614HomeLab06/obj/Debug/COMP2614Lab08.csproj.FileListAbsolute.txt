@@ -1,0 +1,38 @@
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.pdb
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.MainForm.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.Properties.Resources.resources
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.csproj.GenerateResource.Cache
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Documents and Settings\charlie\My Documents\COMP2614_Winter2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+D:\DCRAFT001\My Documents\COMP2614_SpringSummer2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\Lab08Files\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Fall2010\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.csproj.GenerateResource.Cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\bin\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week08\Lab08\COMP2614Lab08\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\COMP2614Lab08.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week06\HomeLab\COMP2614HomeLab06\COMP2614Lab08\obj\Debug\COMP2614Lab08.pdb

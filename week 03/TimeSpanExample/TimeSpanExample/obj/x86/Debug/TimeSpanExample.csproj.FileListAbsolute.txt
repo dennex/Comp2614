@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TimeSpanExample\TimeSpanExample\bin\Debug\TimeSpanExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TimeSpanExample\TimeSpanExample\bin\Debug\TimeSpanExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TimeSpanExample\TimeSpanExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TimeSpanExample\TimeSpanExample\obj\x86\Debug\TimeSpanExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TimeSpanExample\TimeSpanExample\obj\x86\Debug\TimeSpanExample.pdb

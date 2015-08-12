@@ -1,0 +1,9 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ObjectInitializers\ObjectInitializers\obj\x86\Debug\ObjectInitializers.pdb

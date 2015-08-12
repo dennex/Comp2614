@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\DictionaryExample\DictionaryExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\DictionaryExample\DictionaryExample\obj\x86\Debug\DictionaryExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\DictionaryExample\DictionaryExample\obj\x86\Debug\DictionaryExample.pdb

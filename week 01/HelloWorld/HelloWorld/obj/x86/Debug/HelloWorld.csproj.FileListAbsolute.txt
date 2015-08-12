@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\Examples\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

@@ -1,0 +1,15 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\NumericDataTypes.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\NumericDataTypes\NumericDataTypes\bin\Debug\NumericDataTypes.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\NumericDataTypes\NumericDataTypes\obj\x86\Debug\ResolveAssemblyReference.cache

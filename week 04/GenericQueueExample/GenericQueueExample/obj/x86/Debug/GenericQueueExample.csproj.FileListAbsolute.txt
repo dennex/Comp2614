@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericQueueExample\GenericQueueExample\bin\Debug\GenericQueueExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericQueueExample\GenericQueueExample\bin\Debug\GenericQueueExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericQueueExample\GenericQueueExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericQueueExample\GenericQueueExample\obj\x86\Debug\GenericQueueExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\GenericQueueExample\GenericQueueExample\obj\x86\Debug\GenericQueueExample.pdb

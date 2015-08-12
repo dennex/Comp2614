@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ArrayListExample\ArrayListExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ArrayListExample\ArrayListExample\obj\x86\Debug\ArrayListExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week04\Examples\ArrayListExample\ArrayListExample\obj\x86\Debug\ArrayListExample.pdb

@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\HomeLab\COMP2614HomeLab01\COMP2614HomeLab01\bin\Debug\COMP2614HomeLab01.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\HomeLab\COMP2614HomeLab01\COMP2614HomeLab01\bin\Debug\COMP2614HomeLab01.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\HomeLab\COMP2614HomeLab01\COMP2614HomeLab01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\HomeLab\COMP2614HomeLab01\COMP2614HomeLab01\obj\x86\Debug\COMP2614HomeLab01.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week01\HomeLab\COMP2614HomeLab01\COMP2614HomeLab01\obj\x86\Debug\COMP2614HomeLab01.pdb

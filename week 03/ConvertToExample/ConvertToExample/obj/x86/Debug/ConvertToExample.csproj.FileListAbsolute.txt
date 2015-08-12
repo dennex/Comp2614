@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ConvertToExample\ConvertToExample\bin\Debug\ConvertToExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ConvertToExample\ConvertToExample\bin\Debug\ConvertToExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ConvertToExample\ConvertToExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ConvertToExample\ConvertToExample\obj\x86\Debug\ConvertToExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ConvertToExample\ConvertToExample\obj\x86\Debug\ConvertToExample.pdb

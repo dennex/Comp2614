@@ -1,0 +1,12 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\bin\Debug\ConstructorInitializer.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\bin\Debug\ConstructorInitializer.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ConstructorInitializer.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ConstructorInitializer\ConstructorInitializer\bin\Debug\ConstructorInitializer.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ConstructorInitializer\ConstructorInitializer\bin\Debug\ConstructorInitializer.pdb
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ConstructorInitializer\ConstructorInitializer\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\OptionalParametersExample\OptionalParametersExample\bin\Debug\OptionalParametersExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\OptionalParametersExample\OptionalParametersExample\bin\Debug\OptionalParametersExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\OptionalParametersExample\OptionalParametersExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\OptionalParametersExample\OptionalParametersExample\obj\x86\Debug\OptionalParametersExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\OptionalParametersExample\OptionalParametersExample\obj\x86\Debug\OptionalParametersExample.pdb

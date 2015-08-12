@@ -1,0 +1,13 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\bin\Debug\UserControlConsumer.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\bin\Debug\UserControlConsumer.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\bin\Debug\PersonInput.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\bin\Debug\PersonInput.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.MainForm.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.Properties.Resources.resources
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week11\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.exe
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week10\Examples\UserControlConsumer\UserControlConsumer\obj\x86\Debug\UserControlConsumer.pdb

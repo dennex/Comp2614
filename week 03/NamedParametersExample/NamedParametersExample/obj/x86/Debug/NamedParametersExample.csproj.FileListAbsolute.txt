@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\NamedParametersExample\NamedParametersExample\bin\Debug\NamedParametersExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\NamedParametersExample\NamedParametersExample\bin\Debug\NamedParametersExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\NamedParametersExample\NamedParametersExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\NamedParametersExample\NamedParametersExample\obj\x86\Debug\NamedParametersExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\NamedParametersExample\NamedParametersExample\obj\x86\Debug\NamedParametersExample.pdb

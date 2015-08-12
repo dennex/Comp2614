@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ByValByRefExample\ByValByRefExample\bin\Debug\ByValByRefExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ByValByRefExample\ByValByRefExample\bin\Debug\ByValByRefExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ByValByRefExample\ByValByRefExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ByValByRefExample\ByValByRefExample\obj\x86\Debug\ByValByRefExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\ByValByRefExample\ByValByRefExample\obj\x86\Debug\ByValByRefExample.pdb

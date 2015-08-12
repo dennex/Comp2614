@@ -1,0 +1,12 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ArrayExample\ArrayExample\bin\Debug\ArrayExample.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.exe
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ArrayExample\ArrayExample\bin\Debug\ArrayExample.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week02\Examples\ArrayExample\ArrayExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.exe
+C:\Users\Dr Trance\Documents\comp2614\week 2Examples\ArrayExample\ArrayExample\obj\x86\Debug\ArrayExample.pdb

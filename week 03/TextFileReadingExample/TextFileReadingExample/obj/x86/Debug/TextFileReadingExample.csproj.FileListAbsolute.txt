@@ -1,0 +1,5 @@
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TextFileReadingExample\TextFileReadingExample\bin\Debug\TextFileReadingExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TextFileReadingExample\TextFileReadingExample\bin\Debug\TextFileReadingExample.pdb
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TextFileReadingExample\TextFileReadingExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TextFileReadingExample\TextFileReadingExample\obj\x86\Debug\TextFileReadingExample.exe
+C:\Users\charlie\Documents\COMP2614_Fall2011\Week03\Examples\TextFileReadingExample\TextFileReadingExample\obj\x86\Debug\TextFileReadingExample.pdb

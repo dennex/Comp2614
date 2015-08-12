@@ -1,0 +1,14 @@
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week10\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week10\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week10\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week10\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_SpringSummer2011\Week10\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\Examples\ExceptionExample\BizLogic\bin\Debug\BizLogic.pdb
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.dll
+C:\Users\charlie\Documents\COMP2614_Winter2012\Week09\Examples\ExceptionExample\BizLogic\obj\Debug\BizLogic.pdb
